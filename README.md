@@ -1,4 +1,4 @@
-OPUtilities
+OP.Utilities
 ===========
 
 OpenPerret Utilities
